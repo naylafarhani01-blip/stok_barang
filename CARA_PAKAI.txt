@@ -1,0 +1,7 @@
+1. Nyalakan Laragon (Start All) -> Apache + MySQL.
+2. Taruh folder "stok_barang" ke C:\laragon\www\
+3. Buka HeidiSQL -> klik kanan -> Run SQL file -> pilih database.sql
+   (otomatis bikin database db_monitoring_stok + data contoh)
+4. Buka browser: http://localhost/stok_barang
+5. Login: username andi / budi, password: password
+Kalau password MySQL kamu tidak kosong, ubah di koneksi.php.
